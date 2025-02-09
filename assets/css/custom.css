@@ -5,10 +5,12 @@ body {
 }
 
 .author__avatar {
-    width: 120px;
-    height: 120px;
-    border-radius: 50%;
-    border: 3px solid #ddd; /* Agrega un borde alrededor */
+    width: 150px;  /* Aumenta el tamaño */
+    height: 150px; /* Mantiene proporción cuadrada */
+    border-radius: 50%; /* Hace que la imagen sea perfectamente redonda */
+    object-fit: cover; /* Asegura que la imagen no se deforme */
+    display: block;
+    margin: 0 auto; /* Centra la imagen horizontalmente */
 }
 
 @media (min-width: 1200px) {
