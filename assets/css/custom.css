@@ -1,0 +1,26 @@
+body {
+  font-size: 14px; /* Reduce tamaño de fuente */
+  line-height: 1.4; /* Reduce altura de línea */
+  background-color: #f8f9fa; /* Un gris claro */
+}
+
+.author__avatar {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    border: 3px solid #ddd; /* Agrega un borde alrededor */
+}
+
+@media (min-width: 1200px) {
+    .feature__item {
+        flex: 1 1 calc(33.33% - 20px);
+    }
+}
+
+.greedy-nav {
+  max-width: 100%; /* Asegura que se expanda */
+}
+
+.visible-links {
+  flex-wrap: nowrap; /* Evita que se oculten elementos */
+}
