@@ -61,9 +61,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Maria Diaz Alba"
+  name   : "Maria Diaz"
   avatar : "/assets/images/profile.jpg"
-  bio    : "Applied Artificial Intelligence"
+  bio    : "Applied Artificial Intelligence & IoT"
   location: "Miami, Florida, US"
   links:
     - label: "Email"
