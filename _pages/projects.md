@@ -24,6 +24,13 @@ _Presented the project at the [CNN-CERT (National Cryptologic Center) Cyberdefen
 ---
 
 ### 🔹 **Malicious PDF Detection Using Autoencoders Trained on Metadata**
+This project explores the use of deep autoencoders for detecting malicious PDF files through anomaly 
+detection based on metadata. 
+
+The goal is to build a lightweight and interpretable model capable of flagging suspicious documents without requiring labeled malicious data during training.
+
+**[📄Paper](../assets/files/DL_paper.pdf)**
+ [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/mdiaz683/anomaly-detection-pdfs)
 
 ---
 ### 🔹 **Fire Detection using IoT Sensor Data with KNN and Decision Tree**
