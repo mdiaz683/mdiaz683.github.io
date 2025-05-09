@@ -3,7 +3,7 @@ title: "Projects"
 permalink: /projects/
 layout: single
 ---
-### 🔹 **Fingerprint Gender Classification**
+### 🔹 **AI-Driven Biometric Intelligence: Gender Prediction via CNN-Based Fingerprint Analysis**
 This project explores the application of Convolutional Neural Networks (CNNs) for gender classification from fingerprint images. 
 
 By leveraging deep learning architectures, it aims to uncover patterns that distinguish male and female fingerprints, offering potential applications in forensic science and biometric security.
@@ -20,14 +20,18 @@ Developed an AI-driven tool to assess the risk associated with credentials detec
 - Deployed the AI tool in a web-based triage system, enabling automated risk classification and visualization of credential threats.
 
 _Presented the project at the [CNN-CERT (National Cryptologic Center) Cyberdefense Conference](/conferences)_
-
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/mdiaz683/credential-risk-assessment-tool)
 ---
 
+### 🔹 **Malicious PDF Detection Using Autoencoders Trained on Metadata**
+
+---
 ### 🔹 **Fire Detection using IoT Sensor Data with KNN and Decision Tree**
 This project compares the performance of K-Nearest Neighbors (KNN) and Decision Tree algorithms in predicting fire incidents using IoT sensor data.
 
-The objective is to determine which of these Machine Learning algorithms provides better results for classification tasks **[📄Paper](../assets/files/paper-knn-vs-dt.pdf)**
+The objective is to determine which of these Machine Learning algorithms provides better results for classification tasks 
 
+**[📄Paper](../assets/files/paper-knn-vs-dt.pdf)**
  [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/mdiaz683/KNN-vs-DT)
 
 ---
@@ -37,5 +41,5 @@ System designed to enhance home security and comfort by integrating real-time mo
 
 Built on a Raspberry Pi it implements a multi-sensor system with real-time monitoring, automated alerts, and a web-based interface for remote access and data visualization
 
-- **[📄Paper](../assets/files/smart-home.pdf)** 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/mdiaz683/KNN-vs-DT)
+**[📄Paper](../assets/files/smart-home.pdf)** 
+
