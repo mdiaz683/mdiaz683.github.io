@@ -20,6 +20,7 @@ Developed an AI-driven tool to assess the risk associated with credentials detec
 - Deployed the AI tool in a web-based triage system, enabling automated risk classification and visualization of credential threats.
 
 _Presented the project at the [CNN-CERT (National Cryptologic Center) Cyberdefense Conference](/conferences)_
+
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/mdiaz683/credential-risk-assessment-tool)
 ---
 
