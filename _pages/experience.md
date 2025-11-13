@@ -17,7 +17,7 @@ planning to improve stocking accuracy and reduce overages.
 Built a lightweight web-based tool that streamlined the reconciliation of planned vs. actual expenses,
 eliminating the need for manual spreadsheet manipulation
 
-- [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/mdiaz683/Finance-Web-App-for-BVA)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/mdiaz683/Finance-Web-App-for-BVA)
 
 ---
 
