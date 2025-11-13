@@ -6,13 +6,18 @@ layout: single
 
 ### 🔹 **Data Science & AI Engineering - Cordis Corporation**
 Supported AI integration and data-driven process optimization for different business challenges.
-- ** Inventory Forecasting Model for Supply Chain Optimization **
+- **Inventory Forecasting Model for Supply Chain Optimization**
 Developed a machine learning model to forecast product demand and optimize inventory capacity
 planning to improve stocking accuracy and reduce overages.
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/mdiaz683/Forecasting-Model-for-Stock-Capacity-Optimization)
+
 
 - **Web Application for Financial Reconciliation Automation**
 Built a lightweight web-based tool that streamlined the reconciliation of planned vs. actual expenses,
 eliminating the need for manual spreadsheet manipulation
+
+- [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/mdiaz683/Finance-Web-App-for-BVA)
 
 ---
 
